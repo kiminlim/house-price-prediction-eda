@@ -1,7 +1,7 @@
 # house-price-prediction-eda
 
 
-1. USA House Price EDA/1). Data Analysis(USA House price)/location_variable EDA.R	
+1. USA House Price EDA/1). Data Analysis(USA House price)/location_variable EDA.R	 </br>
   : 위도, 경도와 같이 위치에 관련된 변수 분석 및  가격과의 상관관계분석
 1. USA House Price EDA/1). Data Analysis(USA House price)/Squar variable & Etc .R	
   : 면적데이터와 기타변수에 대한 변수 분석 및 매매가와의 상관관계 분석.
